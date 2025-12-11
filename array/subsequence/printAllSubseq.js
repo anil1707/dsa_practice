@@ -1,4 +1,4 @@
-console.log("power set/ all subsequence");
+console.log("subset set/ all subsequence");
 
 let arr = [2, 3, 4];
 
