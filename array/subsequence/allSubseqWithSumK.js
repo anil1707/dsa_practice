@@ -8,12 +8,10 @@ let solve = (arr, ans, temp, sum, i, k) =>{
         ans.push(temp);
         return;
     }
-    console.log("sovle")
     if(i>= arr.length){
         return;
     }
     
-
     // pick
     solve(arr, ans, [...temp, arr[i]], sum+arr[i], i+1, k);
     // not pick
