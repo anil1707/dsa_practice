@@ -12,7 +12,7 @@ const towSum = (arr, target) =>{
             map.set(arr[i], i);
         }
     }
-    return ans;
+    return ans; 
 }
 
 console.log(towSum(arr, target))
