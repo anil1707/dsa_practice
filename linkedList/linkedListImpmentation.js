@@ -82,4 +82,4 @@ console.log("linked list implementation");
  list.deleteFirst();
  list.print()
 
- console.log("head2", list)
+ console.log("head", list)
