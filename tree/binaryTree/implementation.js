@@ -64,8 +64,10 @@ class Tree {
 let tree = new Tree();
 
 tree.add(2);
+tree.add(null)
 tree.add(4);
-tree.add(8);
+tree.add(null);
+tree.add(5)
 tree.add(3);
 let ans = tree.preOrder()
 console.log("ans", ans)
