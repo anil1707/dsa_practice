@@ -1,3 +1,5 @@
 1). Tabulation ---> bottom up
 
-2). Memoization ---> top down
+2). Memoization ---> top down. (recursion)
+
+Recursion → Memoization → Tabulation → Optimization
